@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-ts-todolist/static/css/main.51982233.css",
+    "main.js": "/deploy-ts-todolist/static/js/main.e2823990.js",
+    "index.html": "/deploy-ts-todolist/index.html",
+    "main.51982233.css.map": "/deploy-ts-todolist/static/css/main.51982233.css.map",
+    "main.e2823990.js.map": "/deploy-ts-todolist/static/js/main.e2823990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51982233.css",
+    "static/js/main.e2823990.js"
+  ]
+}
